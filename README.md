@@ -1,5 +1,5 @@
 
-### I'm Rodrigo Blaya, 22 years old, and I'm learning programming. I'm seeking knowledge and practice to enter the tech field. 🖥️
+### I'm Rodrigo Blaya, and I'm learning programming. I'm seeking knowledge and practice to enter the tech field. 🖥️
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hrG82TVmkM)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-blaya-5102652a3)
