@@ -4,8 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-blaya-5102652a3)
 [![Website](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blayazinn.netlify.app/)
 
-[![blayazinn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=blayazinn&show_icons=true&hide_rank=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![blayazinn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=blayazinn&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 🛠️ Technologies I Work With
 
@@ -23,7 +21,6 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blayazinn&hide_progress=true)
 
 ## 📩 Contact Area
 
